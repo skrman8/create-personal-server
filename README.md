@@ -4,4 +4,3 @@
 ##3.register a domain name.
 ##4.try to find a physical server.
 ##5.try to create a website on my cloud server.
-##6.
