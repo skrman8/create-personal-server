@@ -1,5 +1,3 @@
-# create-personal-server
-blog of my creating server.
 # the first day 
 
 ## 1.find this:https://github.com/awesome-selfhosted/awesome-selfhosted
