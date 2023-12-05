@@ -22,3 +22,4 @@
 ## 5.learn that sftp client has downloaded in PC .open cmd,enter in "sftp username@ip".a sftp service is needed on the server.
 ## 6.download filezilla and putty and finalshell 
 ## 7.can't access to my website of mine.
+## 8.make a relationship between domain name and ip address.
