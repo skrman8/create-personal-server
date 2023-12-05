@@ -16,6 +16,8 @@
 
 ## 1.if you need connect personal server with mobile data，i have to have intranet penetration.
 
-## 2.give my server install Linux server system.
+## 2.need to give my server install Linux server system.
 ## 3.download putty
+## 4.learn that a ssh service is needed on server.
+## 5.learn that ssh client has downloaded in my PC.
 
