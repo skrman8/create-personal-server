@@ -17,5 +17,5 @@
 ## 1.if you need connect personal server with mobile data，i have to have intranet penetration.
 
 ## 2.give my server install Linux server system.
-
+## 3.download putty
 
