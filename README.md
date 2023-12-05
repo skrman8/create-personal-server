@@ -9,3 +9,13 @@
 ## 4.try to find a physical server.
 
 ## 5.try to create a website on my cloud server.
+
+
+
+# the second day 
+
+##1.if you need connect personal server with mobile data，i have to have intranet penetration.
+
+##2.
+
+
