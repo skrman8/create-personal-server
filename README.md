@@ -20,4 +20,5 @@
 ## 3.learn that a ssh service is needed on server.
 ## 4.learn that ssh client has downloaded in my PC.open cmd,enter in "ssh username@ip"
 ## 5.learn that sftp client has downloaded in PC .open cmd,enter in "sftp username@ip".a sftp service is needed on the server.
-## 6.download filezilla and putty.
+## 6.download filezilla and putty and finalshell 
+## 7.can't access to my website of mine.
