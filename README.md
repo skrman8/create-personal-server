@@ -19,4 +19,4 @@
 ## 2.need to give my server install Linux server system.
 ## 3.learn that a ssh service is needed on server.
 ## 4.learn that ssh client has downloaded in my PC.
-
+ssh username@ip
