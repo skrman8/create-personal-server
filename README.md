@@ -14,8 +14,8 @@
 
 # the second day 
 
-##1.if you need connect personal server with mobile data，i have to have intranet penetration.
+## 1.if you need connect personal server with mobile data，i have to have intranet penetration.
 
-##2.
+## 2.
 
 
