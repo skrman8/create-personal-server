@@ -23,3 +23,9 @@
 ## 6.download filezilla and putty and finalshell 
 ## 7.can't access to my website of mine.
 ## 8.make a relationship between domain name and ip address.
+## 9.fail to access my website 
+# the third day 
+1.abandon aliyun and then use tengxunyun
+2.download nginx (nginx is a application on server.it can provide basical services about website that you can access to.the same function like apache which i downloaded on aliyun.
+3.manage to open my website on aliyun server.
+4.
